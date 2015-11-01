@@ -19,39 +19,38 @@ Continue tabbing to run through changeable information within the snippet
 
 ```yaml
 
-##email
-This will bring up the latest email boilerplate from SaleCycle.
+email
+#This will bring up the latest email boilerplate from SaleCycle.
 
-##table-fluid
-Inserts a new fixed to fluid table. Declare initial width by tabbing.
+table-fluid
+#Inserts a new fixed to fluid table. Declare initial width by tabbing.
 
-##table-fix
-Adds spacing fixes to your tables using an inline style tag.
+table-fix
+#Adds spacing fixes to your tables using an inline style tag.
 
-##table-cell-fix
-Adds spacing fixes to your table cells using an inline style tag. If the cell contains text, do not apply this fix.
+table-cell-fix
+#Adds spacing fixes to your table cells using an inline style tag. If the cell contains text, do not apply this fix.
 
-#ghost
-Adds the ghost comment fix.
-If you're floating two tables next to each other this will ensure they are put into fixed cells for outlook.
+ghost
+#Adds the ghost comment fix. If you're floating two tables next to each other this will ensure they are put into fixed cells for outlook.
 
-##img-email
-Adds image containing specifically for email
+img-email
+#Adds image containing specifically for email
 
-##spacer
-Adds spacer row. Tab to customise.
+spacer
+#Adds spacer row. Tab to customise.
 
-##link-reset
-Pop this within your 'a' tag to reset link styles, colour selectable by tabbing.
+link-reset
+#Pop this within your 'a' tag to reset link styles, colour selectable by tabbing.
 
-##mob-img-html
-Adds two table rows containing vanishing desktop image and hidden mobile image. Tab to edit.
+mob-img-html
+#Adds two table rows containing vanishing desktop image and hidden mobile image. Tab to edit.
 
-##mob-img-css
-Adds css for mob-img-html.
+mob-img-css
+#Adds css for mob-img-html.
 
-#font-fam
-Adds a font family into your css. Tab to edit.
+font-fam
+#Adds a font family into your css. Tab to edit.
 
 ```
 
