@@ -1,0 +1,7 @@
+<snippet>
+  <content>
+    <![CDATA[style="text-decoration: none; color: ${1:#};" ]]>
+  </content>
+  <tabTrigger>link-reset</tabTrigger>
+  <description>Reset Link</description>
+</snippet>

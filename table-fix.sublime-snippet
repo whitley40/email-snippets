@@ -1,0 +1,7 @@
+<snippet>
+  <content>
+    <![CDATA[style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" ]]>
+</content>
+<tabTrigger>table-fix</tabTrigger>
+<description>Table Fix</description>
+</snippet>

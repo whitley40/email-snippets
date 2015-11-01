@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[
+    font-family:${1:arial,sans-serif;}font-size:{2:14px;}font-weight:{3:normal;};mso-line-height-rule:exactly;line-height:{4:1.5;};color:{5:#000001;};
+    ]]>
+  </content>
+    <tabTrigger>font-fam</tabTrigger>
+    <description>Font Family Email</description>
+  </snippet>

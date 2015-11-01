@@ -1,0 +1,19 @@
+<snippet>
+  <content>
+    <![CDATA[
+    $1<tr class="vanish">
+      <td style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+        <a href="$2"><img class="fluid" src="$3" border="0" style="display:block;" width="${4:560}" alt="$5"></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td bgcolor="ffffff" align="center" style="font-size:1px; line-height:1px;">
+        <a href="$2"><img class="${7:headermob}" style="height:1px; border: 0; padding: 0; display: block;" src="$8" height="1"></a>
+      </td>
+    </tr>
+    ]]>
+  </content>
+  <tabTrigger>mob-img-html</tabTrigger>
+  <description>Mob Image HTML</description>
+</snippet>

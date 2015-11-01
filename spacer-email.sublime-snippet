@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[$1<tr>
+    <td height="${2:50}" style="font-size:1px; line-height:0; mso-margin-top-alt:1px; height: ${3:50px};">
+      ${4:&nbsp;}
+    </td>
+  </tr>]]>
+</content>
+<tabTrigger>spacer</tabTrigger>
+<description>Spacer</description>
+</snippet>
