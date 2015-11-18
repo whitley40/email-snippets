@@ -53,7 +53,7 @@ font-fam
 #Adds a font family into your css. Tab to edit.
 
 rec-items
-#Adds base code for Recommended Items Section. Colours/Fonts/Widths/Heights will need to be adjusted to your design.
+#Adds base code for Recommended Items C2 Section. Colours/Fonts/Widths/Heights will need to be adjusted to your design.
 
 ```
 
