@@ -72,6 +72,6 @@
 </tr>
 <!-- C2 End -->
   </content>
-    <tabTrigger>recommended-items</tabTrigger>
+    <tabTrigger>rec-items</tabTrigger>
     <description>Recommend Items C2</description>
   </snippet>
