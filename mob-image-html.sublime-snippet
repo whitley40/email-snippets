@@ -3,13 +3,13 @@
     <![CDATA[
     $1<tr class="vanish">
       <td style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
-        <a href="$2"><img class="fluid" src="$3" border="0" style="display:block;" width="${4:560}" alt="$5"></a>
+        <a href="$2"><img class="fluid" src="$3" border="0" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none; display:block;" width="${4:560}" alt="$5"></a>
       </td>
     </tr>
 
     <tr>
-      <td bgcolor="ffffff" align="center" style="font-size:1px; line-height:1px;">
-        <a href="$2"><img class="${7:headermob}" style="height:1px; border: 0; padding: 0; display: block;" src="$8" height="1"></a>
+      <td bgcolor="$6" align="center" style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+        <a href="$7"><img class="${8:headermob}" style="height:1px; padding: 0; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none; display:block;" src="$9" height="1"></a>
       </td>
     </tr>
     ]]>
