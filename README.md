@@ -56,7 +56,7 @@ scRecItems
 #Adds base code for Recommended Items C2 Section. Colours/Fonts/Widths/Heights will need to be adjusted to your design.
 
 ```
-sc
+
 ###Key Binding
 To wrap a section name around a block of html we've created a key bind. Add the following keybind to Sublime.
 
