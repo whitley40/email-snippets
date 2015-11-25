@@ -28,8 +28,8 @@ table-fluid
 table-fix
 #Adds spacing fixes to your tables using an inline style tag.
 
-table-cell-fix
-#Adds spacing fixes to your table cells using an inline style tag. If the cell contains text, do not apply this fix.
+td-fix
+#Adds spacing fixes to your td cells using an inline style tag. If the cell contains text, do not apply this fix.
 
 ghost
 #Adds the ghost comment fix. If you're floating two tables next to each other this will ensure they are put into fixed cells for outlook.
