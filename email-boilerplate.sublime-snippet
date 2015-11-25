@@ -131,6 +131,6 @@ table td { border-collapse:collapse; box-sizing:border-box; }
 
 
 ]]></content>
-<tabTrigger>email</tabTrigger>
+<tabTrigger>scEmail</tabTrigger>
   <description>Email Boilerplate</description>
 </snippet>

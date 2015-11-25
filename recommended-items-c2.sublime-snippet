@@ -74,6 +74,6 @@
 <!-- C2 End -->
 ]]>
   </content>
-    <tabTrigger>rec-items</tabTrigger>
+    <tabTrigger>scRecItems</tabTrigger>
     <description>Recommend Items C2</description>
   </snippet>
