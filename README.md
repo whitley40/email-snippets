@@ -8,8 +8,8 @@ These email snippets were created for Sublime Text 3
 
 Sublime Text > Preferences > Browse Packages
 
-###New folder inside 'Users'
-Create a new folder named 'email-snippets' or whatever you prefer
+ Navigate to the Users file (e.g. \AppData\Roaming\Sublime Text 3\Packages\User) and clone git repo. Snippet should now be available to use.
+
 
 ###Use Snippets
 
