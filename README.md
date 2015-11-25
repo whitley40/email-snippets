@@ -65,7 +65,7 @@ Sublime>Preferences>Key Bindings - User
 ```yaml 
 
 [
-  { "keys": ["alt+space"], "command": "insert_snippet", "args": {"name": "Packages/User/email-snippets/comment-wrap.sublime-snippet" }}
+  { "keys": ["alt+space"], "command": "insert_snippet", "args": {"name": "Packages/User/email-snippets/commentWrap.sublime-snippet" }}
 ]
 
 
