@@ -8,8 +8,8 @@ These email snippets were created for Sublime Text 3
 
 Sublime Text > Preferences > Browse Packages
 
-###New folder inside 'Users'
-Create a new folder named 'email-snippets' or whatever you prefer
+ Navigate to the Users file (e.g. \AppData\Roaming\Sublime Text 3\Packages\User) and clone git repo. Snippet should now be available to use.
+
 
 ###Use Snippets
 
@@ -65,7 +65,7 @@ Sublime>Preferences>Key Bindings - User
 ```yaml 
 
 [
-  { "keys": ["alt+space"], "command": "insert_snippet", "args": {"name": "Packages/User/email-snippets/comment-wrap.sublime-snippet" }}
+  { "keys": ["alt+space"], "command": "insert_snippet", "args": {"name": "Packages/User/email-snippets/commentWrap.sublime-snippet" }}
 ]
 
 
