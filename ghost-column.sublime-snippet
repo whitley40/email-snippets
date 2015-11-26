@@ -2,6 +2,6 @@
   <content>
     <![CDATA[$1<!--[if mso]></td><td><![endif]-->]]>
   </content>
-    <tabTrigger>ghost</tabTrigger>
+    <tabTrigger>scGhostCol</tabTrigger>
     <description>Ghost Column</description>
   </snippet>

@@ -19,40 +19,40 @@ Continue tabbing to run through changeable information within the snippet
 
 ```yaml
 
-email
+scEmail
 #This will bring up the latest email boilerplate from SaleCycle.
 
-table-fluid
+scTableFluid
 #Inserts a new fixed to fluid table. Declare initial width by tabbing.
 
-table-fix
+scTableFix
 #Adds spacing fixes to your tables using an inline style tag.
 
-td-fix
-#Adds spacing fixes to your td cells using an inline style tag. If the cell contains text, do not apply this fix.
+scTdFix
+#Adds spacing fixes to your TD cells using an inline style tag. If the cell contains text, do not apply this fix.
 
-ghost
-#Adds the ghost comment fix. If you're floating two tables next to each other this will ensure they are put into fixed cells for outlook.
+scGhostCol
+#Adds the ghost column fix. If you're floating two tables next to each other this will ensure they are put into fixed cells for Outlook.
 
-img-email
-#Adds image containing specifically for email
+scImgEmail
+#Adds image containing specific styles for email.
 
-spacer
+scSpacer
 #Adds spacer row. Tab to customise.
 
-link-reset
+scLinkReset
 #Pop this within your 'a' tag to reset link styles, colour selectable by tabbing.
 
-mob-img-html
+scMobImgHtml
 #Adds two table rows containing vanishing desktop image and hidden mobile image. Tab to edit.
 
-mob-img-css
+scMobImgCss
 #Adds css for mob-img-html.
 
-font-fam
+scFontFam
 #Adds a font family into your css. Tab to edit.
 
-rec-items
+scRecItems
 #Adds base code for Recommended Items C2 Section. Colours/Fonts/Widths/Heights will need to be adjusted to your design.
 
 ```

@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html;" charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>${1Client Name}</title>
+<title>${1:Client Name}</title>
 <style type="text/css">
 
 body { font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#000001; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust:none; }
@@ -34,7 +34,7 @@ table td { border-collapse:collapse; box-sizing:border-box; }
 @media screen and (max-device-width: 650px), screen and (max-width: 650px) {
 .fluid { width: 100% !important; max-width: 100% !important; height: auto !important; }
 .vanish { display: none !important; }
-.clearpad { padding: 0px !important; }
+.clearPad { padding: 0px !important; }
 }
 
 
@@ -43,34 +43,34 @@ table td { border-collapse:collapse; box-sizing:border-box; }
 </style>
 </head>
 
-<body bgcolor="#232b2e" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;-webkit-text-size-adjust:none; -ms-text-size-adjust:none;">
+<body bgcolor="#${3}" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;-webkit-text-size-adjust:none; -ms-text-size-adjust:none;">
 
 
 <!-- START PRE HEADER -->
-<span class="preheader" style="width:0; max-height:1px;font-size:1px; line-height:0; mso-margin-top-alt:1px; color:transparent; display:none !important; mso-hide:all; height:0; opacity:0; visibility:hidden;">Don't Miss Out - Complete Your Order Today! --- </span>
+<span class="preheader" style="width:0; max-height:1px;font-size:1px; line-height:0; mso-margin-top-alt:1px; color:transparent; display:none !important; mso-hide:all; height:0; opacity:0; visibility:hidden;">${2:Don't Miss Out - Complete Your Order Today!} --- </span>
 <!-- END PRE HEADER -->
 
 
 <!-- START 100% WRAPPER CONTAINER -->
 <table width="100%" height="100%" id="backgroundTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
   <tr>
-    <td align="center" valign="top" bgcolor="#232b2e">
-    
-      
-      <!-- START ${2 Outside Width} CONTAINER -->
-      <table width="${3 Outside Width}" class="fluid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+    <td align="center" valign="top" bgcolor="#${3}"
+ >  
+       
+      <!-- START ${4:Outside Width} CONTAINER -->
+      <table width="${4:Outside Width}" class="fluid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
         <tr>
           <td align="center" valign="top">
             
           
-            <!-- START ${4 Inside Width} CONTAINER -->
+            <!-- START ${5:Inside Width} CONTAINER -->
             
-            <table width="${5 Inside Width}" class="fluid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+            <table width="${5:Inside Width}" class="fluid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
               
               
 <!-- Android Gmail Zoom Fix Start -->
 <tr class="vanish">
-<td height="1" style="font-size:1px; line-height:0; min-width:${6 Inside Width}px; width:${7 Inside Width}px; height:1px; max-height:1px; mso-margin-top-alt:1px; border: 0; padding: 0; display: block;">&nbsp;</td>
+<td height="1" style="font-size:1px; line-height:0; min-width:${5:Inside Width}px; width:${5:Inside Width}px; height:1px; max-height:1px; mso-margin-top-alt:1px; border: 0; padding: 0; display: block;">&nbsp;</td>
 </tr>
 <!-- Android Gmail Zoom Fix End -->
   
@@ -131,6 +131,6 @@ table td { border-collapse:collapse; box-sizing:border-box; }
 
 
 ]]></content>
-<tabTrigger>email</tabTrigger>
+<tabTrigger>scEmail</tabTrigger>
   <description>Email Boilerplate</description>
 </snippet>

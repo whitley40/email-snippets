@@ -4,6 +4,6 @@ $1<!-- /// ${2:section-name} /// -->
 $3$SELECTION
 <!-- /// end ${2:section-name} ///  -->
 ]]></content>
-<tabTrigger>commentWrap</tabTrigger>
+<tabTrigger>scCommentWrap</tabTrigger>
   <description>Comment Wrap</description>
 </snippet>

@@ -8,6 +8,6 @@
     </table>
     ]]>
   </content>
-    <tabTrigger>table-fluid</tabTrigger>
+    <tabTrigger>scTableFluid</tabTrigger>
     <description>Fluid Table</description>
   </snippet>
