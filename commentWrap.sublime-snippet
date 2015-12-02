@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$1<!-- /// ${2:section-name} /// -->
+$3$SELECTION
+<!-- /// end ${2:section-name} ///  -->
+]]></content>
+<tabTrigger>scCommentWrap</tabTrigger>
+  <description>Comment Wrap</description>
+</snippet>

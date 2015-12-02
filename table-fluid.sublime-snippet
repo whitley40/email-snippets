@@ -1,13 +1,13 @@
 <snippet>
   <content>
     <![CDATA[
-    $1<table class="fluid" width="${2:600px}" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+    $1<table class="fluid" width="${2:600}" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
       <tr>
         <td>${3:&nbsp;}</td>
       </tr>
     </table>
     ]]>
   </content>
-    <tabTrigger>table-fluid</tabTrigger>
+    <tabTrigger>scTableFluid</tabTrigger>
     <description>Fluid Table</description>
   </snippet>

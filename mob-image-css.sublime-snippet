@@ -2,6 +2,6 @@
   <content>
     <![CDATA[$1img[class=${2:headermob}] { height:auto!important; width:${3:100%}!important; background:url($4)!important; background-size:${5:100% auto} !important;}]]>
   </content>
-    <tabTrigger>mob-img-css</tabTrigger>
+    <tabTrigger>scMobImgCss</tabTrigger>
     <description>Mob Image CSS</description>
   </snippet>

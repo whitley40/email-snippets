@@ -2,6 +2,6 @@
   <content>
     <![CDATA[$1<img src="$2" border="0" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none; display:block;" width="$3" alt="$4">]]>
   </content>
-    <tabTrigger>img-email</tabTrigger>
+    <tabTrigger>scImgEmail</tabTrigger>
     <description>Image</description>
   </snippet>

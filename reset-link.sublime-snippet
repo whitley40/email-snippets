@@ -2,6 +2,6 @@
   <content>
     <![CDATA[style="text-decoration: none; color: ${1:#};" ]]>
   </content>
-  <tabTrigger>link-reset</tabTrigger>
+  <tabTrigger>scLinkReset</tabTrigger>
   <description>Reset Link</description>
 </snippet>

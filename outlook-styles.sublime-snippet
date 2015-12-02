@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- Outlook styles - You can add styles specific to Outlook here. -->
+
+<!--[if gte mso 9]>
+    <style type="text/css">
+    /* Your Outlook-specific CSS goes here. */
+    </style>
+
+<![endif]-->
+]]></content>
+	<tabTrigger>scOutlookStyles</tabTrigger>
+  <description>Outlook Styles</description>
+</snippet>

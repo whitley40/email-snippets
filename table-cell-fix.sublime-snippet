@@ -2,6 +2,6 @@
   <content>
     <![CDATA[style="font-size:1px; line-height:0; mso-margin-top-alt:1px;" ]]>
 </content>
-<tabTrigger>td-fix</tabTrigger>
-<description>Table Cell Fix</description>
+<tabTrigger>scTdFix</tabTrigger>
+<description>td Fix</description>
 </snippet>
